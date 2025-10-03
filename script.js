@@ -1,6 +1,4 @@
-
-        
-        // Mobile sidebar toggle functionality
+// Mobile sidebar toggle functionality
         const sidebarToggle = document.getElementById('sidebarToggle');
         const sidebar = document.getElementById('sidebar');
         const sidebarOverlay = document.getElementById('sidebarOverlay');
@@ -398,4 +396,3 @@
             chatContainer.appendChild(messageElement);
             chatWindow.scrollTop = chatWindow.scrollHeight;
         }
-  
