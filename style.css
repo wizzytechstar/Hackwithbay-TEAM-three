@@ -1,5 +1,4 @@
-
-        body {
+body {
             box-sizing: border-box;
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
         }
@@ -114,4 +113,3 @@
             from { transform: rotate(0deg); }
             to { transform: rotate(360deg); } /* full circle */
         }
-  
